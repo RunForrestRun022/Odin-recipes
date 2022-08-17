@@ -1,2 +1,2 @@
-# Odin-recipes
+# odin-recipes
 Odin Recipes HTML Practice
